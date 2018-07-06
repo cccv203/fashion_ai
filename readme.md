@@ -29,10 +29,6 @@ as our final point;for cpn bottleneck,we also using pyrnet bottleneck.*
 <div align="center">
 <img src="data/imgs/demo/0013.png" width="256" height="256"/>
 <img src="data/imgs/demo/0014.png" width="256" height="256"/>
-<br>
-
-<img src="data/imgs/demo/0015.png" width="256" height="256"/>
-<img src="data/imgs/demo/0016.png" width="256" height="256"/>
 </div>
 
 ## Extending,At final round,we got some inspires, as :
